@@ -5,10 +5,10 @@
 #include <FirebaseArduino.h>
 
 
-#define FIREBASE_HOST "iotc-994b6.firebaseio.com"
-#define FIREBASE_AUTH "3deKcbWp2v5e07GGcoYyKPdlWobUQtADpASSFzUx"
-#define WIFI_SSID "Hawkeye"
-#define WIFI_PASSWORD "Human1936"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxx"
 
 WiFiClient client;
 
