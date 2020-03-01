@@ -9,10 +9,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 
-#define FIREBASE_HOST "iotc-994b6.firebaseio.com"
-#define FIREBASE_AUTH "3deKcbWp2v5e07GGcoYyKPdlWobUQtADpASSFzUx"
-#define WIFI_SSID "Hawkeye"
-#define WIFI_PASSWORD "Human1936"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxx"
+#define WIFI_PASSWORD "xxxxxxxx"
 
 
 
