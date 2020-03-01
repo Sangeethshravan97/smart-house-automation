@@ -1,7 +1,7 @@
-#define FIREBASE_HOST "iotc-994b6.firebaseio.com"
-#define FIREBASE_AUTH "3deKcbWp2v5e07GGcoYyKPdlWobUQtADpASSFzUx"
-#define WIFI_SSID "Hawkeye"
-#define WIFI_PASSWORD "Human1936"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxx"
+#define WIFI_PASSWORD "xxxxxx"
 
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
